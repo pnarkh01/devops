@@ -2,3 +2,4 @@ a=1
 b=1
 print a+b
 z=1
+c=1
